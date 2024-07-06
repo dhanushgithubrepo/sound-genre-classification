@@ -1,0 +1,1 @@
+ machine learning model that can classify music genres using audio features, specifically focusing on frequency information. trained and evaluated on the well-known GTZAN dataset, which is a popular benchmark for music genre classification tasks.
